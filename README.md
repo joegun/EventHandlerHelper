@@ -6,10 +6,9 @@ Most of the time the usage of this class is used for unit testing.
 
 Let's take a look at the example below.
 
-namespace <your namespace>
+namespace yournamespace
 {
-
-  internal class <your class name>
+  internal class yourclassname
   {
     ...
     private readonly WeakEvent<EventHandler> _onEventHandler = new WeakEvent<EventHandler>();
