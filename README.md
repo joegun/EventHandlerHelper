@@ -8,6 +8,7 @@ Let's take a look at the example below.
 
 namespace <your namespace>
 {
+
   internal class <your class name>
   {
     ...
